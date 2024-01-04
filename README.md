@@ -1,5 +1,5 @@
 # MICMIC
 Microcontroladores e Microprocessadores - Cadeira ISEP
 
-Neste repositório encontram-se os códigos usados para a realização dos projetos 1 e 2 da cadeira de MICMIC que tinha como objetivo a utilização da linguagem de programaºão assembly para a implementação de funcionamentos em microcontroladores.
-Foi utilizado o ATMega128.
+This repository contains the codes used to carry out projects 1 and 2 of the MICMIC subject, which aimed to use assembly programming language to implement functions on microcontrollers.
+ATMega128 was used.
